@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6E9yeunJNkE=",
+  "success": true,
+  "projectFilePath": "C:\\Programering 2\\Hangman\\Hangman\\Hangman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david.trossing\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\david.trossing\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\david.trossing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\david.trossing\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
